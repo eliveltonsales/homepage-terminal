@@ -21,11 +21,11 @@ The idea behind this homepage is to have the appearance of a terminal using the 
 ```
 
 └───terminal-homepage
-     └───example.png | Demonstrates how the homepage looks
-     └───index.html  | The homepage
-     └───links.json  | List where you put your links
-     └───README.md   | What you're reading right now
-     └───script.js   | Functions to load the links, the time and the temperature
-     └───style.css   | The appearance
+     └───terminal-homepage.png | Demonstrates how the homepage looks
+     └───index.html            | The homepage
+     └───links.json            | List where you put your links
+     └───README.md             | What you're reading right now
+     └───script.js             | Functions to load the links, the time and the temperature
+     └───style.css             | The appearance
 
 ```
