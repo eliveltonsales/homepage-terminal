@@ -1,6 +1,8 @@
 # Terminal Homepage
 
 The idea behind this homepage is to have the appearance of a terminal using the   [Dracula Theme](https://github.com/dracula/dracula-theme)
+
+![plot](/terminal-homepage.png)
  
 ## How to Use
  
