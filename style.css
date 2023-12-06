@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;400;700&display=swap');
+
+* {
+    font-family: 'JetBrains Mono', monospace;
+    caret-color: #282A36;   
+}
+
+body {
+    background-color: #282A36!important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 100vh;
+}
+
+.link {
+    color: #F8F8F2;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.link:hover {
+    color: #6272A4;
+    text-decoration: none;
+}
+
+.command {
+    border: none;
+    background-color: #282A36;
+    color: #F8F8F2;
+    width: 90%;
+    outline: none;    
+}
+
+.terminal {
+    background-color: #282A36;
+    box-shadow: 0px 0px 10px 3px #16182050;
+}
+
+
+.white {
+    color: #F8F8F2;
+}
+
+.cyan {
+    color: #8BE9FD;
+}
+
+.green {
+    color: #50FA7B;
+}
+
+.orange {
+    color: #FFB86C;
+}
+
+.pink {
+    color: #FF79C6;
+}
+
+.purple {
+    color: #BD93F9;
+}
+
+.red {
+    color: #FF5555;
+}
+
+.yellow {
+    color: #F1FA8C;
+}
