@@ -14,7 +14,7 @@ The idea behind this homepage is to have the appearance of a terminal using the 
 3. Add weather information to the 'script.js' file.
 	1. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/)
 	2. Add your latitude and longitude information.
-4. Set the 'index.html' file as the homepage in your preferred browser.
+4. Host the homepage locally and set the 'index.html' file as the homepage in your preferred browser.
 
 ## Files
 
